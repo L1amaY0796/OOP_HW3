@@ -25,6 +25,7 @@
 #include <vector>
 #include "base_class.h"
 #include "graph_basics.h"
+#include <random>
 
 using std::vector;
 using std::string;

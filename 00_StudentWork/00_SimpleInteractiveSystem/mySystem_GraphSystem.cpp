@@ -28,6 +28,17 @@ namespace SYS_CONSTANTS {
 int Param::GRAPH_MAX_NUM_NODES = 10000;
 int Param::GRAPH_MAX_NUM_EDGES = 10000;
 
+// added function: random
+int randomGen(int a, int b) {
+    random_device rd;
+    mt19937 gen(rd());
+
+    uniform_int_distribution<int> distrib(a, b);
+
+    return distrib(gen);
+
+}
+
 GRAPH_SYSTEM::GRAPH_SYSTEM( )
 {
     mFlgAutoNodeDeletion = false;
@@ -176,6 +187,44 @@ void GRAPH_SYSTEM::createRandomGraph_DoubleCircles(int n)
     //
     // modify and add your code heres
     //
+
+    double ang = 2 * acos(-1.0) / n;
+    vector<int> n1;
+    vector<int> n2;
+
+    for (int i = 0; i < n; i++) {
+        dx = r * cos(ang * i);
+        dz = r * sin(ang * i);
+        int n_1 = addNode(offset_x + dx, 0.0, offset_z + dz);
+        n1.push_back(n_1);
+
+        dx = (r+d) * cos(ang * i);
+        dz = (r + d) * sin(ang * i);
+        int n_2 = addNode(offset_x + dx, 0.0, offset_z + dz);
+        n2.push_back(n_2);
+
+    }
+
+    double limitedAng = acos(r/(r+d));
+
+    
+    for (int inner = 0; inner < n; inner++) {
+        int connect = randomGen(0, n-1);
+
+        int diff = abs(connect - inner);
+        if (diff > n / 2) diff = n - diff;
+        double angDiff = diff * ang;
+
+        while (angDiff > limitedAng) {
+            connect = randomGen(0, n - 1);
+
+            diff = abs(connect - inner);
+            if (diff > n / 2) diff = n - diff;
+            angDiff = diff * ang;
+        }
+
+        addEdge(n1[inner], n2[connect]);
+    }
 }
 
 void GRAPH_SYSTEM::createNet_Circular( int n, int num_layers )
@@ -252,8 +301,8 @@ void GRAPH_SYSTEM::createNet_RadicalCircular( int n ) {
     int n_0 = addNode(offset_x, 0.0, offset_z);
 
     for (int i = 0; i < n; i++) {
-        int dx = r * cos(ang * i);
-        int dz = r * sin(ang * i);
+        double dx = r * cos(ang * i);
+        double dz = r * sin(ang * i);
         int n_1 = addNode(offset_x + dx, 0.0, offset_z + dz);
         
         addEdge(n_1, n_0);

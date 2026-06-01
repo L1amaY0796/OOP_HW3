@@ -346,6 +346,7 @@ int GRAPH_SYSTEM::addNode( float x, float y, float z, float r )
 
     if (g == nullptr) return -1;
 
+    g->edgeID.clear();
     g->p.x = x;
     g->p.y = y;
     g->p.z = z;
@@ -562,6 +563,7 @@ void GRAPH_SYSTEM::deleteNode( int nodeID ) {
     int dynamicID = n->dynamicID;
 
     deleteEdgesOfNode(nodeID);
+    mNodeArr_Pool[nodeID].edgeID.clear();
 
     int lastActiveNodeID = mActiveNodeArr[mCurNumOfActiveNodes - 1];
 
@@ -865,7 +867,7 @@ void GRAPH_SYSTEM::handleKeyPressedEvent( unsigned char key )
         break;
     case '3':
         mFlgAutoNodeDeletion = false;
-        createNet_Square(15, 4);
+        createNet_Square(15, 5);
         mSelectedNode = 0;
 
         break;

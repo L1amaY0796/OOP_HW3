@@ -1,4 +1,39 @@
-﻿  mySystem_GraphSystem.cpp
+﻿  mySystemApp.cpp
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\graph_basics.h(25,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp.cpp(74,39): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp.cpp(77,30): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  mySystemApp_HandleEvents.cpp
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\graph_basics.h(25,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(75,9): warning C4101: 'numSamples': 未參考的區域變數
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(74,12): warning C4101: 'area': 未參考的區域變數
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(102,9): warning C4101: 'numSamples': 未參考的區域變數
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(101,12): warning C4101: 'area': 未參考的區域變數
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(120,9): warning C4101: 'numSamples': 未參考的區域變數
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(119,12): warning C4101: 'area': 未參考的區域變數
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(208,44): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(214,31): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(219,45): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(226,31): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(231,45): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  mySystemApp_draw.cpp
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\graph_basics.h(25,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(109,29): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(109,21): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(112,30): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(112,21): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(114,30): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(114,21): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(131,30): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(131,21): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+  mySystem_GraphSystem.cpp
 C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
 C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
 C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\graph_basics.h(25,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
@@ -24,10 +59,56 @@ C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_2
 C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem.cpp(437,26): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
 C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem.cpp(785,24): warning C4018: '<': signed/unsigned 不相符
 C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem.cpp(948,14): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  mySystem_GraphSystem_draw.cpp
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\primitives\vector3d.h(24,61): warning C4244: 'return': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\graph_basics.h(25,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem_draw.cpp(73,52): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem_draw.cpp(89,13): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem_draw.cpp(87,17): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem_draw.cpp(95,28): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem_draw.cpp(101,22): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem_draw.cpp(99,28): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem_draw.cpp(109,28): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem_draw.cpp(169,52): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem_draw.cpp(185,13): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem_draw.cpp(183,17): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem_draw.cpp(199,9): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem_draw.cpp(197,13): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem_draw.cpp(211,47): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem_draw.cpp(223,53): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem_draw.cpp(224,53): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem_draw.cpp(242,44): warning C4244: '引數': 將 'float' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem_draw.cpp(242,34): warning C4244: '引數': 將 'float' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem_draw.cpp(242,24): warning C4244: '引數': 將 'float' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+  main.cpp
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\graph_basics.h(25,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  openGLapp.cpp
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\graph_basics.h(25,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  openGLapp.events.cpp
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\graph_basics.h(25,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  openGLapp_draw.cpp
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\graph_basics.h(25,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  openGLapp_init.cpp
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\graph_basics.h(25,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  openGLapp_update.cpp
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\inc\GL\gl.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\00_StudentWork\00_SimpleInteractiveSystem\graph_basics.h(25,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1363,5): warning MSB8012: TargetPath(C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\Release\SelfMotivatedSystem.exe) 與 Linker 的 OutputFile 屬性值 (C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\bin\Release\SelfMotivatedSystem.exe) 不相符。這可能會導致您的專案建置不正確。若要改正這種情況，請確認 $(OutDir)、$(TargetName) 和 $(TargetExt) 屬性值必須與 %(Link.OutputFile) 中指定的值相符。
   正在產生程式碼
-  12 of 840 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 840 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   已完成程式碼產生
   asm.vcxproj -> C:\Users\Peterson\oop\OOP_HW03_Package_202602\OOP_HW03_Package_202602\OOP_HW03_202602_Template_NET2019\Release\SelfMotivatedSystem.exe

@@ -1,7 +1,7 @@
 //********************************************
-// Student Name			:
-// Student ID			:
-// Student Email Address:
+// Student Name			:·¨µn¤ª
+// Student ID			:114550121
+// Student Email Address:petersonyang96.cs14@nycu.edu.tw
 //********************************************
 //
 //

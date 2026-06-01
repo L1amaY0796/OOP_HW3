@@ -689,7 +689,7 @@ void GRAPH_SYSTEM::computeDepthOfAllNodesFromSelectedNode(GRAPH_NODE* node, int 
         // 
         
     //}
-
+   
 
     for (int i = 0; i < (int)node->edgeID.size(); ++i) {
         int edgeID = node->edgeID[i];
